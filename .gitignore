@@ -1,0 +1,8 @@
+# Makefiles are generated, ignore
+**.mk
+**makefile
+**.opt
+
+# Ignore compiled binaries
+**.lib
+**.out
