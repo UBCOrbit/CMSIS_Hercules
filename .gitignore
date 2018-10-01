@@ -7,6 +7,8 @@
 **linkInfo.xml
 **/targetConfigs
 **.map
+**/.launches
+
 
 # Ignore compiled binaries
 **.lib
