@@ -1,8 +1,13 @@
-# Makefiles are generated, ignore
+# Ignore generated config files
 **.mk
 **makefile
 **.opt
+**.d
+**linkInfo.xml
+**/targetConfigs
+**.map
 
 # Ignore compiled binaries
 **.lib
 **.out
+**.obj
