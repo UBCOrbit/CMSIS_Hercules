@@ -14,3 +14,6 @@
 **.lib
 **.out
 **.obj
+
+# Ignore temp files
+**~
