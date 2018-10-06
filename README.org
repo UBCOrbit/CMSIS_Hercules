@@ -22,5 +22,4 @@ Under the top level of this released package, you will find the following sub-di
 | include  | Contains the public header file for the Cortex-R DSP Library and common header files.                                                                                                                    |
 | Lib      | Contains prebuild libraries of DSP functions for the Cortex-R family processors. It also contains the project files for different Tool chains like MDK, RVDS, CCS,DS-5 and GNU to build the DSP library. |
 | Source   | Contains the source code for the DSP functions.                                                                                                                                                          |
-|----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
